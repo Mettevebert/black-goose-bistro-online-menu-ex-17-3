@@ -47,3 +47,6 @@ section {
   text-align: center;
   margin-top: auto;
 }
+.photo {
+  order: -1;
+}
